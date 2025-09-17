@@ -10,4 +10,11 @@
     <ProjectReference Include="..\TooliRent.Domain\TooliRent.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DTOs\" />
+    <Folder Include="Validation\" />
+    <Folder Include="Services\" />
+    <Folder Include="Profiles\" />
+  </ItemGroup>
+
 </Project>
